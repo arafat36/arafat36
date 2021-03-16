@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arafat36  
-- 👀 I’m interested in React  
+- 👀 I’m interested in React & Frontend development
 - 🌱 I’m currently learning TDD with React   
 // - 💞️ I’m looking to collaborate on ...  
 // - 📫 How to reach me ...  
